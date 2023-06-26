@@ -1,0 +1,3 @@
+#!/bin/bash
+chmod --reference--011ch hello
+
